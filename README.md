@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Chmel1
+### Привет всем 👋, меня зовут Chmel1
 #### Я веб разработчик
 ![Я веб разработчик](https://github.com/Chmel1/html/blob/main/banerzxc.png)
 
