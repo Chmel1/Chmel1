@@ -20,8 +20,8 @@
 
 | Проект | Описание |
 |-------|--------|
-| [**Book**](https://github.com/Chmel1/Symfony) | 🌐 Сайт по книгам  |
-| [**Venall**](https://github.com/Chmel1/Venall) | 🌐 Портфолио  |
+| [**Book**](https://github.com/Chmel1/Symfony) | 🌐 Сайт по книгам(Symfony)  |
+| [**Venall**](https://github.com/Chmel1/Venall) | 🌐 Портфолио(Laravel)  |
 
 
 
