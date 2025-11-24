@@ -4,7 +4,7 @@
 <div align="center">
   <img alt="web-devepoler" src="https://github.com/Chmel1/html/blob/main/banerzxc.png" />
 </div>
----
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulherveph/paulherveph/output/github-snake-dark.svg"/>
@@ -12,7 +12,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/paulherveph/paulherveph/output/github-snake.svg"/>
 </picture>
 
----
 <h2>🙍‍♂️Обо мне:</h2>
   Меня зовут Владислав. Мне 20 лет.
 <p>Я только недавно закончил обучение. Учился на информациооные системы и программирование, в дипломе написанно Программист. В данный момент времени занимаюсь созданием сайтов для себя и изучаю языки и фреймворки</p>
