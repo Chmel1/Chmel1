@@ -35,10 +35,9 @@
 
 ---
 
-<h2>📊Активность</h2>
+<h2>📊 Активность</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chmel1&show_icons=true&theme=aura&layout=compact" />
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chmel1&layout=compact&theme=aura" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chmel1&show_icons=true&theme=aura&layout=compact" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chmel1&layout=compact&theme=aura" />
 </p>
