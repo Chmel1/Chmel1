@@ -1,9 +1,7 @@
 
 <h1 align = "center"> <b>Привет👋, меня зовут Chmel1</b></h1>
 
-<div align="center">
-  <img alt="web-devepoler" src="https://github.com/Chmel1/html/blob/main/banerzxc.png" />
-</div>
+
 
 
 <picture>
