@@ -28,7 +28,7 @@
 |-------|--------|
 | [**Book**](https://github.com/Chmel1/Symfony) | 🌐 Сайт по книгам(Symfony)  |
 | [**Venall**](https://github.com/Chmel1/Venall) | 🌐 Портфолио(Laravel)  |
-| [**Venall**](https://github.com/Chmel1/b2b-blog) | 🌐 Блог(Laravel+React+Docker)  |
+| [**B2B-Blog**](https://github.com/Chmel1/b2b-blog) | 🌐 Блог(Laravel+React+Docker)  |
 
 
 
