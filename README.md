@@ -29,6 +29,7 @@
 | [**Book**](https://github.com/Chmel1/Symfony) | 🌐 Сайт по книгам(Symfony)  |
 | [**Venall**](https://github.com/Chmel1/Venall) | 🌐 Портфолио(Laravel)  |
 | [**B2B-Blog**](https://github.com/Chmel1/b2b-blog) | 🌐 Блог(Laravel+React+Docker)  |
+| [**YandexReviewsParser**](https://github.com/Chmel1/YandexParse) | 🌐 Парсер отзывов с яндекс карт(Laravel+Vue+Queues)  |
 
 
 
